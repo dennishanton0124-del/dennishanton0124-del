@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Dennis Hanton 👋
 
-<!--
-**dennishanton0124-del/dennishanton0124-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI-powered automation systems** that transform unstructured information into structured workflows.
 
-Here are some ideas to get you started:
+My work focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI workflow automation
+- LLM-powered classification systems
+- operational analytics dashboards
+- human-in-the-loop AI systems
+
+---
+
+# Featured Projects
+
+## AI Intake & Triage System
+
+An AI-powered pipeline that classifies inbound requests and routes them for automation or human review.
+
+Tech Stack:
+Zapier • OpenAI • Airtable • Slack
+
+---
+
+## AI Operations Dashboard
+
+A monitoring dashboard that tracks AI classification performance and automation rates.
+
+Tech Stack:
+Metabase • SQL • Airtable
+
+---
+
+## Document Processing Pipeline
+
+A workflow that extracts structured data from documents using AI.
+
+Tech Stack:
+OpenAI • Automation workflows
+
+---
+
+# Tech Stack
+
+AI & Automation  
+OpenAI • Zapier • APIs
+
+Data & Analytics  
+SQL • Metabase • Airtable
+
+Workflow Systems  
+Slack • Automation pipelines
+
+---
+
+# Current Focus
+
+Building production-style AI systems that combine:
+
+AI models  
+automation workflows  
+operational monitoring
+
+---
+
+# Connect
+
+LinkedIn: https://www.linkedin.com/in/dennishanton/
