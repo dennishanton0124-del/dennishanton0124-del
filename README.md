@@ -1,3 +1,4 @@
+![GitHub Banner](github-banner.png)
 # Dennis Hanton – AI Automation & Data Analytics Portfolio
 
 Welcome to my GitHub portfolio. I build projects that demonstrate **AI workflow automation, operational monitoring, and data visualization** used in modern AI-powered systems.
