@@ -9,6 +9,38 @@ My work focuses on connecting **AI services, automation tools, and analytics das
 
 # Featured Projects
 
+## AI Lead Qualification System
+
+A production-ready AI-powered pipeline that automatically scores, enriches, and routes inbound leads in real time.
+
+The system replaces manual lead research with structured AI outputs, enabling faster, more consistent sales qualification and decision-making.
+
+**Key Features**
+
+* AI-powered lead scoring (0–100)
+* Confidence-based evaluation
+* Company analysis and summarization
+* Pain point extraction
+* Recommended outreach strategy
+* Real-time Slack notifications
+* CRM-style data storage in Supabase
+* Fully automated workflow orchestration
+
+**Tools Used**
+
+* OpenAI
+* FastAPI
+* n8n
+* Supabase
+* Slack
+* Railway
+
+**Repository**
+
+https://github.com/dennishanton0124-del/lead-qualification-api
+
+---
+
 ## AI Intake & Triage Automation System
 
 An AI-powered workflow that automatically classifies and routes incoming user requests.
